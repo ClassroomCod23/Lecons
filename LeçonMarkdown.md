@@ -2,7 +2,7 @@
 ## Table ds Matières
 1.[Explication](#Explications)
 
-2.[Mise en page] (#Mise en Page)
+2.[Exemples](#Exemples)
 
 3.[Exemples](#Exemples)
 
