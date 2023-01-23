@@ -4,8 +4,6 @@
 
 2.[Exemples](#Exemples)
 
-3.[Exemples](#Exemples)
-
 ## Explication
 ### Le Markdown est un langage aimé par les programmeurs car il est non binaire au contraire de word.
 ## Mise en Page 
@@ -15,6 +13,6 @@
 ### Cela donne un gros titre
 ## Exercices
 
-``` écriver cool en gros titre````
+```écriver cool en gros titre````
 
 
