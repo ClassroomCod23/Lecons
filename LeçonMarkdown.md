@@ -9,9 +9,9 @@
 ## Mise en Page 
 ### Plus il y a de # plus le texte est moins important [voir exemple](#Exemples)
 ## Exemples
-``` # cool```
-### Cela donne un gros titre
+``` ############ cool```
+### Cela donne un mini titre
 ## Exercices
 
-```écrire cool en gros titre ```
+```écrire Ulysse  Le spartiate en gros titre ```
 
